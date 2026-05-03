@@ -162,8 +162,8 @@ Through this project I gained practical, hands-on experience in:
 
 If you'd like to discuss this project, please feel free to reach out:
 
-- **LinkedIn:** [Your LinkedIn URL]
-- **Email:** [your.email@example.com]
+- **LinkedIn:** https://www.linkedin.com/in/gauravgovind99/
+- **Email:** gauravwork2211@gmail.com
 
 ---
 
